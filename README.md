@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=아름다움에%20약한%20IOS%20개발자&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=아름다움에%20약한%20IOS%20개발자&fontAlign=50&fontAlignY=40&color=gradient)
 ### 🌹 아름다움에 약한 IOS 개발자 **이은호** 입니다
 ***
 - 🔭 현제 소프트웨어학과 재학중입니다
