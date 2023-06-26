@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=20몰입하는%20개발자&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=몰입하는%20개발자&fontAlign=50&fontAlignY=40&color=gradient)
 ### 🌹 아름다움에 약한 개발자 **이은호** 입니다
 ***
 - 🔭 현제 소프트웨어학과 재학중입니다
