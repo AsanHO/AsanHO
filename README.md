@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=몰입하는%20개발자&fontAlign=50&fontAlignY=40&color=gradient)
-### 🌹 아름다움에 약한 개발자 **이은호** 입니다
+### 🌹 아름다움에 약한 모바일 개발자 **이은호** 입니다
 ***
 - 🔭 현제 소프트웨어학과 재학중입니다
 - 🌱 현재 CS,Algorism을 학습중입니다.
+- Flutter, Firebase를 통한 서비스 개발에 관심과 애착이 있습니다:)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gorma00)](https://solved.ac/gorma00/)
 
