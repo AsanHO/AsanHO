@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=몰입하는%20개발자&fontAlign=50&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=be%20engineer&fontAlign=50&fontAlignY=40&color=gradient)
 ### 🌹 아름다움에 약한 모바일 개발자 **이은호** 입니다
 ***
 - 🔭 현제 소프트웨어학과 재학중 && 에이치디메디(주) 프론트엔지니어로 근무 중 입니다
